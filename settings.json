@@ -1,0 +1,20 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Dracula",
+    "liveServer.settings.donotVerifyTags": true,
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.rulers": [80,120],
+    "editor.renderLineHighlight": "gutter",
+    "editor.tabSize": 4,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.syntaxProfiles": {
+        "javascript":"jsx"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "editor.parameterHints.enabled": false,
+    "breadcrumbs.enabled": true,
+    "javascript.suggest.autoImports": false
+}
